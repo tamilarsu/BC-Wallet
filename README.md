@@ -2,8 +2,8 @@
 Wallet
 
 **to Run**
-npm install
-uncomment lines from 189
+npm install \n
+uncomment lines from 189 \n
 npm run run
 
 **to test**
