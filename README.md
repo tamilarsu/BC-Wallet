@@ -1,7 +1,7 @@
 # BC-Wallet
 Wallet
 
-**to Run**
+**to Run** <br />
 npm install <br />
 uncomment lines from 189 <br />
 npm run run
